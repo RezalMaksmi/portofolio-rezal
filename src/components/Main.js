@@ -67,7 +67,7 @@ const Main = () => {
             <div className='wrapping-project'>
                 <h6>Project Saya</h6>
                 <div className='wrap-project'>
-                    <p className='p-text'>Berikut ini adalah Project-projectc frontend/slacing yang pernah saya kerjakan.</p>
+                    <p className='p-text'>Berikut ini adalah Project-project frontend/slacing yang pernah saya kerjakan.</p>
                 </div>
                 <ScrollingCarousel className='items-project' show={3.5} slide={3} swiping={true}>
                 
@@ -81,10 +81,10 @@ const Main = () => {
                 <div className='wrap-medsos'>
                     <div className='btn' onClick={openmedsos}>=</div>
                     <div className='medsos-add' id='medsos'>
-                        <a href=''><img src={ig} className="img" alt="dumy" /></a>
-                        <a href=''><img src={yt} className="img" alt="dumy" /></a>
-                        <a href=''><img src={fb} className="img" alt="dumy" /></a>
-                        <a href=''><img src={twt} className="img" alt="dumy" /></a>
+                        <a href='https://www.instagram.com/rezalnursyaifudincc/'><img src={ig} className="img-medsos" alt="dumy" /></a>
+                        <a href='https://www.instagram.com/rezalnursyaifudincc/'><img src={yt} className="img-medsos" alt="dumy" /></a>
+                        <a href='https://www.instagram.com/rezalnursyaifudincc/'><img src={fb} className="img-medsos" alt="dumy" /></a>
+                        <a href='https://www.instagram.com/rezalnursyaifudincc/'><img src={twt} className="img-medsos" alt="dumy" /></a>
                     </div>
                 </div>
             

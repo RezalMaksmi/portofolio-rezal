@@ -81,7 +81,7 @@ input{
 }
 
 .bungkus{
-    width: 100%;
+    /* width: 100%; */
     display: flex;
     justify-content: flex-start;
     padding-left: 23px;
